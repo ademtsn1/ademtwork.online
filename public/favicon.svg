@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100">
+  <!-- Sitenin ana rengi olan yuvarlak arka plan -->
+  <circle cx="50" cy="50" r="50" fill="#bbf10a" />
+  <!-- Ortalanmış modern A harfi -->
+  <text x="50" y="73" font-family="system-ui, -apple-system, sans-serif" font-size="65" font-weight="900" fill="#111111" text-anchor="middle">A</text>
+</svg>
