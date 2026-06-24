@@ -381,7 +381,7 @@ export function SystemFlow() {
               <div className="mono-metric text-[#bbf10a]" style={{ fontSize: 36 }}>
                 {s.value}
               </div>
-              <div className="t-mono-label mt-1 text-[24px]" style={{ color: '#E4E4E7', fontFamily: "'Fira Code', monospace" }}>
+              <div className="t-mono-label mt-1" style={{ color: '#E4E4E7', fontFamily: "'Fira Code', monospace", fontSize: '20px' }}>
                 {s.label}
               </div>
             </div>
